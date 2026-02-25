@@ -17,3 +17,5 @@ Kullanılan Teknik Yetkinlikler:
 
 1-SQL Mimari: PRIMARY KEY, FOREIGN KEY ve AUTO_INCREMENT kısıtlamalarıyla hatasız veri modelleri.
 2-İleri Sorgulama: Birden fazla tabloyu birleştiren karmaşık JOIN operasyonları, veri manipülasyonu (DML) ve şema güncellemeleri (DDL).
+
+örnek kod: SELECT * FROM users WHERE status = 'active';
